@@ -17,7 +17,7 @@ export default function Banner() {
                 3000,
                 "Information Technology Students 👨‍💻",
                 3000,
-                "Beginner Front-End Web 🚀",
+                "I'm Software Enginerr 🚀",
                 3000,
                 "Lets Sharing 🌍",
                 3000,

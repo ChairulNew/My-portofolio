@@ -3,7 +3,6 @@ import { BiHome, BiUser, BiCodeAlt } from "react-icons/bi"
 import { Link } from "react-scroll"
 
 export default function Navigation({ activePage }) {
-  // Menyimpan state untuk tautan aktif
   const [activeLink, setActiveLink] = useState(activePage || "home")
 
   return (

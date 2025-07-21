@@ -34,6 +34,9 @@ export default function Header({
           <a href="https://www.github.com/ChairulNew">
             <BsGithub />
           </a>
+          <a href="https://www.linkedin.com/in/chairul-arul-360075356/">
+            <BsLinkedin />
+          </a>
           <a href="https://www.instagram.com/chairulll.__/">
             <BsInstagram />
           </a>
