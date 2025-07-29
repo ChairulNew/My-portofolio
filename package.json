@@ -13,7 +13,8 @@
     "react-scripts": "5.0.1",
     "react-scroll": "^1.8.9",
     "react-type-animation": "^2.1.2",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "webpack-dev-server": "^5.2.2"
   },
   "scripts": {
     "start": "react-scripts start",

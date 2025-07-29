@@ -74,7 +74,7 @@ export default function Portfolio() {
       imgSrc: "/images/port6.png",
       title: "Instagram Clone",
       description: "Tech stack with flutter + firebase",
-      link: "https://github.com/ChairulNew/fullstack-instagram-clone",
+      link: "https://github.com/ChairulCode/",
     },
   ])
 
